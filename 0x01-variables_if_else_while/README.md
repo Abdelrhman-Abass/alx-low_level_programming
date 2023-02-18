@@ -1,1 +1,1 @@
-0x01-variables_if_else_while
+This project has 10 mandatory tasks and 3 Advanced Tasks
